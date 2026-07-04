@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiknagabasha56&label=Profile%20views&color=0e75b6&style=flat" alt="shaiknagabasha56" /> </p>
 
-- 🔭 I’m currently working on [Networking & Linux](https://github.com/shaiknagabasha56/Networking)
-
-- 🌱 I’m currently learning **Networking,Linux**
+- 🔭 I’m currently learning [Networking & Linux](https://github.com/shaiknagabasha56/Networking)
 
 - 📫 How to reach me **shaiknagabasha56@gmail.com**
+
+- Trying to help students like me by publishing my learnings in GitHub account for free
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
