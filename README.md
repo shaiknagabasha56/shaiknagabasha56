@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiknagabasha56&label=Profile%20views&color=0e75b6&style=flat" alt="shaiknagabasha56" /> </p>
 
-- 🔭 I’m currently learning [Networking & Linux](https://github.com/shaiknagabasha56/Networking)
+- 🔭 I’m currently learning Python for AI/ML (https://github.com/shaiknagabasha56/)
 
 - 📫 How to reach me **shaiknagabasha56@gmail.com**
 
