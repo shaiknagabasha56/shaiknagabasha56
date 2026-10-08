@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiknagabasha56&label=Profile%20views&color=0e75b6&style=flat" alt="shaiknagabasha56" /> </p>
 
-- 🔭 I’m currently working on [Python for AI/ML](https://github.com/shaiknagabasha56/Networking)
+- 🔭 I’m currently working on [Software Development](https://github.com/shaiknagabasha56/Networking)
 
-- 🌱 I’m currently learning **AI/ML & DSA with Python**
+- 🌱 I’m currently learning **FULL STACK DEV | MERN**
 
 - 📫 How to reach me **shaiknagabasha56@gmail.com**
 
